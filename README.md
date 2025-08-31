@@ -1,5 +1,9 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+NAME: G.SINDHU PRIYA REDDY
+
+REG NO:212224040319
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
